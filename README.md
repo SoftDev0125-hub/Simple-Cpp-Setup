@@ -62,7 +62,7 @@ git clone [url to the repository you just created]
 
 For example in my case this would be:
 ```bash
-git clone https://github.com/JulesFouchy/Simple-Cpp-Setup
+git clone https://github.com/SoftDev0125-hub/Simple-Cpp-Setup
 ```
 
 ## Running the code
@@ -111,3 +111,4 @@ By using the `Debug` button you can run your code in debug mode. This will show 
 One of the extensions installed with the profile we provided is *Live Share*: it allows you to work remotely with your teammates in one single editor, just like a GoogleDoc. It is amazing to work together on projects! <br/>
 Use <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd> and type "Live Share" to start a collaborative session.
 ![](./readme-images/live-share.png)
+
